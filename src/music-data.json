@@ -1,0 +1,29 @@
+[
+    {
+        "id":"0",
+        "title":"King Nothing",
+        "artist":"Metallica",
+        "album":"Load",
+        "year": 1996,
+        "isSoldOut":true,
+        "imageUrl":"https://vinyl-records.nl/metallica/harvester-of-sorrow-usa/A0346-METALLICA-Harvester-of-Sorrow-Maxi-1460.jpg"
+    },
+    {
+        "id":"1",
+        "title":"Epitagh",
+        "artist":"King Crimson",
+        "album":"In The Court Of The Crimson King",
+        "year": 1969,
+        "isSoldOut":true,
+        "imageUrl":"https://t2.genius.com/unsafe/319x324/https%3A%2F%2Fimages.genius.com%2Fc7fa829e2a1ba2d55a55524d72a4b07a.492x500x1.jpg"
+    },
+    {
+        "id":"2",
+        "title":"Siyah(Esved)",
+        "artist":"Neyse",
+        "album":"Neyse",
+        "year": 2011,
+        "isSoldOut":false,
+        "imageUrl":"https://i.scdn.co/image/ab67616d00001e0263a94f6459d13c78bda9c872"
+    }
+]
