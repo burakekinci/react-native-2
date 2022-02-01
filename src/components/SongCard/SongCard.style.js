@@ -19,22 +19,23 @@ export default StyleSheet.create({
         flexDirection:"row",
     },
     artist:{
-        color: 'gray',
+        color: '#4d4d4d',
     },
     title:{
         fontWeight: "bold",
         fontSize: 25,
-        color: 'black',
+        color: '#2d2d2d',
     },
     image:{
-        height:100,
-        width:100,
-        borderRadius:50,
+        height:80,
+        width:80,
+        borderRadius:40,
     },
     year:{
         marginLeft: 10,
         fontWeight: "bold",
         color: 'red',
+        fontStyle: 'italic',
     },
     soldout_container:{
         borderWidth:1,
